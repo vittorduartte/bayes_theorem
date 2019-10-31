@@ -1,4 +1,4 @@
-# Modelos Probabilísticos - Teorema de Baeys
+# Modelos Probabilísticos - Teorema de Bayes
 
 *Autor: Mateus Vitor Duarte Sousa - [Site](http://vittorduartte.github.io/)*
 
