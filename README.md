@@ -1,6 +1,6 @@
 # Modelos Probabilísticos - Teorema de Baeys
 
-*Autor: Mateus Vitor Duarte Sousa - [site](http://vittorduartte.github.io/)*
+*Autor: Mateus Vitor Duarte Sousa - [Site](http://vittorduartte.github.io/)*
 
 ## Resumo 
 
